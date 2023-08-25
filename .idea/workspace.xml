@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -39,10 +42,20 @@
       <recent name="$PROJECT_DIR$/data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Exoplanets_Prediction2" />
       <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/Exoplanets_Prediction2" />
       <recent name="$PROJECT_DIR$/Exoplanets_Prediction1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="355761c9-7d68-4dd4-a732-588046ce413f" name="Changes" comment="" />
+      <created>1692934623629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692934623629</updated>
+    </task>
+    <servers />
+  </component>
 </project>
